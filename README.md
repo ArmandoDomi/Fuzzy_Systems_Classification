@@ -2,7 +2,7 @@
 TSK models that are using the hybrid method for training.
 For the task 1 use [Haberman's dataset](https://archive.ics.uci.edu/ml/datasets/Haberman's+Survival).
 For the task 2 use [Epileptic Seizure Recognition Data Set](https://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition)
-## Task 1  Model1
+## Task 1  Model 1
 - Use Subtractive Clustering 
 - Class Independent for clusterInfluenceRange = 0.7
 - Change the output function to constant
@@ -12,7 +12,7 @@ For the task 2 use [Epileptic Seizure Recognition Data Set](https://archive.ics.
   - Producer’s accuracy – User’s accuracy
   - Overall accuracy
   - K
-  ## Task 1  Model2
+  ## Task 1  Model 2
 - Use Subtractive Clustering 
 - Class Independent for clusterInfluenceRange = 0.9
 - Change the output function to constant
@@ -22,7 +22,7 @@ For the task 2 use [Epileptic Seizure Recognition Data Set](https://archive.ics.
   - Producer’s accuracy – User’s accuracy
   - Overall accuracy
   - K
-  ## Task 1  Model3
+  ## Task 1  Model 3
 - Use Subtractive Clustering 
 - Class Dependent for clusterInfluenceRange = 0.7
 - Change the output function to constant
@@ -32,7 +32,7 @@ For the task 2 use [Epileptic Seizure Recognition Data Set](https://archive.ics.
   - Producer’s accuracy – User’s accuracy
   - Overall accuracy
   - K
-  ## Task 1  Model4
+  ## Task 1  Model 4
 - Use Subtractive Clustering 
 - Class Dependent for clusterInfluenceRange = 0.9
 - Change the output function to constant
