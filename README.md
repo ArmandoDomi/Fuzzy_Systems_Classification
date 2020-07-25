@@ -42,7 +42,7 @@ For the task 2 use [Epileptic Seizure Recognition Data Set](https://archive.ics.
   - Producer’s accuracy – User’s accuracy
   - Overall accuracy
   - K
-  ## Task 2
+ ## Task 2
   - Use Subtractive Clustering 
   - Create a grid search for the best number of features and values of radii
   - Use relieff for feature selection
