@@ -12,7 +12,7 @@ For the task 2 use [Epileptic Seizure Recognition Data Set](https://archive.ics.
   - Producer’s accuracy – User’s accuracy
   - Overall accuracy
   - K
-## Task 1  Model2
+  ## Task 1  Model2
 - Use Subtractive Clustering 
 - Class Independent for clusterInfluenceRange = 0.9
 - Change the output function to constant
@@ -22,7 +22,7 @@ For the task 2 use [Epileptic Seizure Recognition Data Set](https://archive.ics.
   - Producer’s accuracy – User’s accuracy
   - Overall accuracy
   - K
-## Task 1  Model3
+  ## Task 1  Model3
 - Use Subtractive Clustering 
 - Class Dependent for clusterInfluenceRange = 0.7
 - Change the output function to constant
@@ -32,7 +32,7 @@ For the task 2 use [Epileptic Seizure Recognition Data Set](https://archive.ics.
   - Producer’s accuracy – User’s accuracy
   - Overall accuracy
   - K
-## Task 1  Model4
+  ## Task 1  Model4
 - Use Subtractive Clustering 
 - Class Dependent for clusterInfluenceRange = 0.9
 - Change the output function to constant
@@ -42,7 +42,7 @@ For the task 2 use [Epileptic Seizure Recognition Data Set](https://archive.ics.
   - Producer’s accuracy – User’s accuracy
   - Overall accuracy
   - K
-## Task 2
+  ## Task 2
   - Use Subtractive Clustering 
   - Create a grid search for the best number of features and values of radii
   - Use relieff for feature selection
